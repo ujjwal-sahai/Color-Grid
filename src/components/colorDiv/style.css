@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+}
+
+.container-header{
+    padding:10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container-body{
+    display: flex; 
+    flex-direction: row;
+    padding:10px;
+    border:1px solid #dfdfdf;
+    margin:0 5px;
+}
+
+.context-holder{
+    width:33%;
+    text-align: left;
+}
+
+.context-holder label{
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.colored-div{
+    height:100px;
+    width: 100%;
+    border: 2px solid #000;
+}
